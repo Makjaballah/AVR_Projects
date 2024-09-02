@@ -12,6 +12,6 @@ The following sub-headings are given for each project where possible:
 ## The Atmel® ATmega328P low-power CMOS 8-bit microcontroller 
 
 <div>
-<img src="https://github.com/user-attachments/assets/8d74fa45-68d4-4dea-9b01-dbd52334139a" width="450" height="450">
-<img src="https://github.com/user-attachments/assets/b317c4e7-69d2-41ac-b83d-ec9f7fca7818" width="450" height="450">
+<img src="https://github.com/user-attachments/assets/8d74fa45-68d4-4dea-9b01-dbd52334139a" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/b317c4e7-69d2-41ac-b83d-ec9f7fca7818" width="500" height="500">
 </div>
