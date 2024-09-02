@@ -21,7 +21,7 @@ $ avrdude -c USBasp -p m328p -B 4 -U flash:w:main.hex:i
       7- 10 kΩ potentiometer
       8- 330 Ω resistor
       9- Three 10 kΩ resistors
-      10- Two 22 pF ceramic capacitor
+      10- Two 22 pF ceramic capacitors
 ```
 ## The main circuit diagram
 <img src="https://github.com/user-attachments/assets/647dc0a6-d3b1-4623-af7b-014b7ff83d8b" width="800">
